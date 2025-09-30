@@ -1,6 +1,6 @@
 @RestWithASP_NETUdemy_HostAddress = http://localhost:5199
 
-GET {{RestWithASP_NETUdemy_HostAddress}}/weatherforecast/
+GET {{RestWithASP_NETUdemy_HostAddress}}/Calculation/
 Accept: application/json
 
 ###
