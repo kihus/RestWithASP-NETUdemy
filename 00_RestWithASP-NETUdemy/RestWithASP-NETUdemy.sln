@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestWithASP-NETUdemy", "RestWithASP-NETUdemy\RestWithASP-NETUdemy.csproj", "{BBF4B10A-9CA5-4F24-BF3F-935751FAE242}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF4B10A-9CA5-4F24-BF3F-935751FAE242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF4B10A-9CA5-4F24-BF3F-935751FAE242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF4B10A-9CA5-4F24-BF3F-935751FAE242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF4B10A-9CA5-4F24-BF3F-935751FAE242}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72760DA5-919F-4F0B-9CE2-7431AC99CFA7}
+	EndGlobalSection
+EndGlobal
